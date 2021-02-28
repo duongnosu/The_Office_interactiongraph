@@ -7,3 +7,4 @@ https://github.com/Gandagorn/interesting_visuals
 #### Data from Nasir Khalid on Kaggle 
 https://www.kaggle.com/nasirkhalid24/the-office-us-complete-dialoguetranscript/notebooks
 
+![](TheOffice_wob.png)
